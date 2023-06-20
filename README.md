@@ -12,7 +12,7 @@
 
 ## Interests & Hobbies
 - 🔎 Currently focused on Gamehacking and reverse engineering
-- ♟ Avid chess player, aspiring to develop a simple chess engine in the future
+- ♟ Avid chess player, looking to develop a basic chess engine in the future
 - 🏁 Often participating in hackathons to test my skills and learn new ones
 - ⚽ Off the keyboard, I'm into beach volleyball and football (soccer)
 
@@ -23,3 +23,4 @@
 - 🌐 Basic knowledge of bash & make
 
 [42WEBSITE]: https://www.42heilbronn.de/en/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterMariu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Nschumac's github stats](https://github-readme-stats.vercel.app/api?username=WinterMarius&hide=[%22issues%22]&show_icons=tr
