@@ -23,4 +23,5 @@
 - 🌐 Basic knowledge of bash & make
 
 [42WEBSITE]: https://www.42heilbronn.de/en/
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterMariu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Nschumac's github stats](https://github-readme-stats.vercel.app/api?username=WinterMarius&hide=[%22issues%22]&show_icons=tr
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterMarius)](https://github.com/anuraghazra/github-readme-stats)
+
