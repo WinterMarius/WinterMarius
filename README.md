@@ -14,7 +14,7 @@
 - 🔎 Currently focused on Gamehacking and reverse engineering
 - ♟ Avid chess player, looking to develop a basic chess engine in the future
 - 🏁 Often participating in hackathons to test my skills and learn new ones
-- ⚽ Off the keyboard, I'm into beach volleyball and football (soccer)
+- ☀️ Off the keyboard, I'm into beach 🏐 volleyball and ⚽ football
 
 ## Proficiencies & Skills
 - 🎯 Proficient in C/C++, JavaScript/TypeScript
