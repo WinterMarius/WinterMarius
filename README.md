@@ -8,7 +8,7 @@
 - 🌐 42 schools are global and well-established all around the world
 - 🧑‍🎓 Unique learning model: no conventional teachers here; we learn from each other and ourselves
 - 📚 A hands-on approach to learning: we focus on project-based tasks rather than traditional textbook learning
-- 📍 Learn more about my school here: [42 Website]
+- 📍 Learn more about my school here: [42Website]
 
 ## Interests & Hobbies
 - 🔎 Currently focused on Gamehacking and reverse engineering
