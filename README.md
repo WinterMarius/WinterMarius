@@ -1,5 +1,5 @@
 # Hi, Everyone! 👋
-## I'm a 20-year-old student at 42 School
+## I'm a 20-year-old student at the 42 Programming School in Heilbronn
 - 🎓 Proudly studying at 42 in Heilbronn
 - 📍 Currently residing in Heilbronn, Germany
 
